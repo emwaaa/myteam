@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    font-family: 'Permanent Marker'
+}
+
+.navbar-dark .navbar-brand {
+    color: red;
+}
+
+.jumbotron{
+    background-image: url(IU1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
